@@ -1,0 +1,17 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+pymupdf
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
+langchain-groq
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+huggingface_hub
+streamlit
